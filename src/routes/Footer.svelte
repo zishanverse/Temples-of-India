@@ -11,16 +11,16 @@
     </div>
     <div class="footer-section2">
         <p class="footer-text">Quick Links</p>
-        <a class="quick-links" href="/">Home</a>
-        <a class="quick-links" href="/aboutUs">About Us</a>
-        <a class="quick-links" href="/nearbyTemples">Nearby Temples</a>
+        <a class="quick-links" href="https://templesofindia.org/">Home</a>
+        <a class="quick-links" href="https://templesofindia.org/aboutUs">About Us</a>
+        <a class="quick-links" href="https://templesofindia.org/nearbyTemples">Nearby Temples</a>
         <a class="quick-links" href="https://play.google.com/store/apps/details?id=com.tofi.app">Download App</a>
-        <a class="quick-links" href="/donateToUs">Donate to Us</a>
+        <a class="quick-links" href="https://templesofindia.org/error">Donate to Us</a>
     </div>
     <div class="footer-section2">
-        <a class="quick-links" href="/searchTemple">Search Temples</a>
+        <a class="quick-links" href="https://templesofindia.org/searchTemple">Search Temples</a>
         <a class="quick-links" href="https://www.youtube.com/watch?v=4nn8Su_F53g">Watch Video</a>
-        <a class="quick-links" href="/disclaimer">Disclaimer</a>
+        <a class="quick-links" href="https://templesofindia.org/disclaimer">Disclaimer</a>
         <a class="quick-links" href="https://blog.templesofindia.org/">Our Blog</a>
         <a class="quick-links" href="https://donatefordharma.org/">Donate for Dharma</a>
     
